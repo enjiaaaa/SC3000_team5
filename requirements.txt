@@ -1,0 +1,8 @@
+gym[classic_control]
+pyvirtualdisplay
+ez_setup
+setuptools
+tensorflow
+numpy
+matplotlib
+ipython
